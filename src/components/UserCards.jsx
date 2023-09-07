@@ -1,4 +1,4 @@
-import "./Usercards.css";
+import "./UserCards.css"
 
 export default function UserCards({
   name,
