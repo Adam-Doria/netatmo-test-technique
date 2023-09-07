@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(224, 224, 221, 0.275);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+html {
+    overflow-y: scroll;
+}

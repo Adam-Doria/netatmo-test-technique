@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    text-align: center;
+
+}
+
+.card {
+    display: flex;
+    flex : 1 0 25%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px; 
+    justify-content: space-evenly;   
+}
+
+.addUsers{
+margin-bottom: 20px;
+height: 50px;
+width: 50px;
+font-size: 2rem;
+border-radius: 100px;
+color:rgb(157, 157, 158);
+border :1px solid rgb(157, 157, 158);
+position : relative
+}
+
+.addUsers:hover {
+    cursor: pointer;
+    background: rgb(157, 157, 158);
+    color :white ;
+}
+
+.addUsers:after,.addUsers:before {
+    content: "";
+    position: absolute;
+    background: rgb(157, 157, 158);
+  
+    height: 2px;
+    width: 250px;
+    
+}
+.addUsers:after{  
+left: -300px;
+top: 1.5rem }
+
+.addUsers:before { 
+right: -300px;
+top: 1.5rem }  

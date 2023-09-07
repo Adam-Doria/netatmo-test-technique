@@ -1,0 +1,41 @@
+.navbar {
+    padding: 10px;
+    display: flex; 
+    flex: row wrap;
+    background : linear-gradient(to bottom,#00112a,#000306);;
+    height: 10vh;
+    color:aliceblue;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 0 0 20px 20px;
+
+}
+
+
+.logo {
+    width: 20%;
+    font-size: 3rem;
+}
+.logo span{
+    color : rgb(255, 162, 0)
+}
+.navigation {
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    text-transform: uppercase;
+    
+}
+.navlink{
+list-style: none;
+}
+
+.navlink a  {
+    color:aliceblue;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.navlink a:hover {
+    color :rgb(255, 162, 0);
+}
