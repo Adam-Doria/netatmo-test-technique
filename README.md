@@ -53,5 +53,5 @@ Le choix de la stack technique étant libre, j'ai orienté ce projet en :
 
 Adam Drici- drici.adam@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: <a href="https://main--luxury-douhua-153b0e.netlify.app/> Voir le projet </a>
 
