@@ -6,7 +6,7 @@ Les utilisateurs proviennent de requêtes envoyées à l'API <a href="https://ra
 Les consignes étaient :
 - Afficher plusieurs utilisateurs ainsi que les informations de leur profil
 - Pouvoir supprimer un profil
-- Pouvoir ajouter 10 profil d'un coup
+- Pouvoir ajouter 10 profiles d'un coup
 - Pouvoir trier les utilisateurs par genre
 - Ajouter tout élément qu'on souhaitait montrer (barre de recheche d'utilisateur ici) 
 - Un tri des utilisateurs par date de naissance
